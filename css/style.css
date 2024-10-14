@@ -1,0 +1,71 @@
+/* General page styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #0066cc;
+  color: white;
+  padding: 20px 0;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+/* Table styling */
+.fact-table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.fact-table th, .fact-table td {
+  padding: 15px;
+  text-align: center;
+  border: 1px solid;
+}
+
+.fact-table th {
+  background-color: #004080;
+  color: white;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+.fact-table td {
+  font-size: 1rem;
+}
+
+.field-title {
+  background-color: #e0ebeb;
+  font-weight: bold;
+}
+
+/* Image styling */
+.fact-table img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Additional border rule */
+td, th {
+  border: 1px solid #333; /* Adjust border color to dark gray for better visual balance */
+}
+
+  

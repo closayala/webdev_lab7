@@ -48,7 +48,7 @@ h1 {
   font-size: 1rem;
 }
 
-.field-title {
+.field-title td{
   background-color: #053368;
   color: white;
 }

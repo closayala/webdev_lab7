@@ -26,11 +26,8 @@ h1 {
 .fact-table {
   width: 80%;
   margin: 0 auto;
-  border-collapse: collapse;
   background-color: white;
   border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
 }
 
 .fact-table th, .fact-table td {
@@ -43,7 +40,6 @@ h1 {
   background-color: #004080;
   color: white;
   font-size: 1.2rem;
-  text-transform: uppercase;
 }
 
 .fact-table td {

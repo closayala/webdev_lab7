@@ -1,7 +1,7 @@
 /* General page styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f8ff;
+  background-color: #9FDDF7;
   color: #333;
   margin: 0;
   padding: 20px;
@@ -9,8 +9,7 @@ body {
 }
 
 .page-header {
-  background-color: #0066cc;
-  color: white;
+  background-color: ##1A12EA;
   padding: 20px 0;
   margin-bottom: 30px;
   border-radius: 10px;
@@ -41,7 +40,7 @@ h1 {
 }
 
 .fact-table th {
-  background-color: #004080;
+  background-color: #018CC7;
   color: white;
   font-size: 1.2rem;
 }
@@ -51,7 +50,7 @@ h1 {
 }
 
 .field-title {
-  background-color: #e0ebeb;
+  background-color: #053368;
   font-weight: bold;
 }
 
